@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F84A -DL -O11111114 -fo8 -N"C:\Users\YOUNG BILLY\Desktop\microcontroller\mikro\D5.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\YOUNG BILLY\Desktop\microcontroller\mikro\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "D5.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 52 [bytes], Available ROM: 1024 [bytes]	 
+diagnostics: 0	122	Compilation Started	D5.c
+diagnostics: 75	123	Compiled Successfully	D5.c
+diagnostics: 0	127	All files Compiled in 500 ms	 
+hint: 0	1144	Used RAM (bytes): 2 (4%)  Free RAM (bytes): 50 (96%)	Used RAM (bytes): 2 (4%)  Free RAM (bytes): 50 (96%)
+hint: 0	1144	Used ROM (program words): 256 (25%)  Free ROM (program words): 768 (75%)	Used ROM (program words): 256 (25%)  Free ROM (program words): 768 (75%)
+diagnostics: 0	125	Project Linked Successfully	D5.mcppi
+diagnostics: 0	128	Linked in 235 ms	 
+diagnostics: 0	129	Project 'D5.mcppi' completed: 985 ms	 
+diagnostics: 0	103	Finished successfully: 09 Jan 2023, 14:11:53	D5.mcppi
